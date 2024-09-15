@@ -31,7 +31,7 @@ h1{
     text-decoration: none;
 }
 
-/* seção conteúdos gratuitos */
+/* conteúdos gratuitos */
 
 .destaque-gratuito{
     font-weight: 600;
@@ -51,4 +51,38 @@ h1{
 .botao-gratuito {
     text-decoration: none;
     font-size: 19px;
+}
+
+/* diferenciais */
+
+.titulo-diferencial{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.destaque-diferencial{
+    font-size: 22px;
+}
+
+.h3-diferencial{
+    font-size: 20px;
+    color: #005e88;
+    font-weight: 600;
+}
+
+.p1-diferencial{
+    font-size: 16px;
+}
+
+.p2-diferencial{
+    font-size: 16px;
+}
+
+.h3-2-diferencial{
+    font-size: 35px;
+}
+
+.h3-2-diferencial a{
+    color: #005e88;
+    text-decoration: none;
 }
