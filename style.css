@@ -3,6 +3,20 @@ body, a{
     color: #404040;
 }
 
+h1{
+    font-size: 35px;
+    font-weight: 600;
+}
+
+h2{
+    font-size: 35px;
+    font-weight: 400;
+}
+
+strong{
+    font-weight: 600;
+}
+
 /* cabeçalho */
 
 .item-lista-cabeçalho a{
@@ -38,11 +52,6 @@ h1{
     color: #7a40be;
 }
 
-.titulo-gratuito{
-    font-weight: 400;
-    font-size: 22px;
-}
-
 .subtitulo-gratuito{
     font-weight: bold;
     font-size: 18px;
@@ -55,31 +64,14 @@ h1{
 
 /* diferenciais */
 
-.titulo-diferencial{
-    font-size: 22px;
-    font-weight: 600;
-}
-
-.destaque-diferencial{
-    font-size: 22px;
-}
-
-.h3-diferencial{
+.destaque-diferencial strong{
     font-size: 20px;
     color: #005e88;
     font-weight: 600;
 }
 
-.p1-diferencial{
+.p-diferencial{
     font-size: 16px;
-}
-
-.p2-diferencial{
-    font-size: 16px;
-}
-
-.h3-2-diferencial{
-    font-size: 35px;
 }
 
 .h3-2-diferencial a{
