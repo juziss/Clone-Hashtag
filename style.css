@@ -17,6 +17,12 @@ strong{
     font-weight: 600;
 }
 
+.botao{
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 /* cabeçalho */
 
 .item-lista-cabeçalho a{
@@ -37,12 +43,6 @@ h1{
 .hero-paragrafo{
     font-weight: 350;
     font-size: 19px;
-}
-
-.hero-botao{
-    font-size: 24px;
-    font-weight: bold;
-    text-decoration: none;
 }
 
 /* conteúdos gratuitos */
@@ -77,4 +77,16 @@ h1{
 .h3-2-diferencial a{
     color: #005e88;
     text-decoration: none;
+}
+
+/* o que falam */
+
+.oq-falam-realce{
+    font-weight: 600;
+}
+
+.botao-oq-falam{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
 }
