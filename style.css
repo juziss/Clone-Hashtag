@@ -130,3 +130,23 @@ h1{
     font-weight: 600;
 }
 
+/* rodapé */
+
+.rodape-titulo{
+    font-weight: 600;
+    font-style: 22px;
+}
+
+.rodape-subtitulo{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.rodape-subtitulo2{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.rodape-link{
+    color: #1a77a4;
+}
