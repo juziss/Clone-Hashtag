@@ -90,3 +90,36 @@ h1{
     font-weight: 700;
     font-size: 18px;
 }
+
+/* na mída */
+
+/* blog da hashtag */
+
+.link-blog{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link-blog-seção{
+    color: #f7a70c;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+/* como pode te ajudar */
+
+.realce-ajudar{
+    font-weight: 600;
+}
+
+.link-ajudar a,
+.p-ajudar a{
+    color: #008ff7;
+    font-weight: 600;
+}
+
+.lista-ajudar,
+.p-ajudar{
+    font-size: 19px;
+}
